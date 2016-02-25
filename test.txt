@@ -1,0 +1,10 @@
+ah,ao,eh,ey,f,ih,iy,k,n,ow,r,s,t,th,uw,w,z
+z,ih,r,ow
+z,iy,r,ow
+w,ah,n
+t,uw
+th,r,iy
+f,ao,r
+s,ih,k,s
+s,ih,ah,n
+ey,t
